@@ -1,0 +1,1 @@
+Desde la Tierra, la Luna se suele ver de color blanco. Sin embargo, en ocasiones puede apreciarse con tonos rosas o rojos, que pueden deberse a las partículas que hay en la atmósfera y el paso de la luz a través de ellas.

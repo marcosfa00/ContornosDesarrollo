@@ -1,0 +1,70 @@
+Last login: Fri Sep 30 08:35:12 on console
+marcosfa@MacBook-Pro-de-Marcos COD % pwd
+/Users/marcosfa/Documents/Dam1/COD
+marcosfa@MacBook-Pro-de-Marcos COD % mkdir Universo
+marcosfa@MacBook-Pro-de-Marcos COD % mkdir "Universo grande"
+marcosfa@MacBook-Pro-de-Marcos COD % rmdir "Universo grande"
+marcosfa@MacBook-Pro-de-Marcos COD % cd Universo 
+marcosfa@MacBook-Pro-de-Marcos Universo % pwd
+/Users/marcosfa/Documents/Dam1/COD/Universo
+marcosfa@MacBook-Pro-de-Marcos Universo % mkdir Tierra
+marcosfa@MacBook-Pro-de-Marcos Universo % mkdir Luna
+marcosfa@MacBook-Pro-de-Marcos Universo % cd Tierra
+marcosfa@MacBook-Pro-de-Marcos Tierra % echo "La rotación de la Tierra es 
+uno de los movimientos de la Tierra que consiste en girar en torno a su 
+propio eje. La Tierra gira de oeste a este, al igual que el resto de 
+planetas del sistema solar (con la excepción de Venus y Urano). Tomando al 
+polo norte como punto de vista, la Tierra gira en sentido antihorario" >> 
+Rotacion.txt
+marcosfa@MacBook-Pro-de-Marcos Tierra % echo "La densidad de la tierra es 
+de 5.513 gramos por centímetro cúbico. Este número es la densidad promedio 
+de toda la materia en la Tierra, y es el planeta más denso del sistema 
+solar.">> Densidad.txt
+marcosfa@MacBook-Pro-de-Marcos Tierra % ls
+Densidad.txt	Rotacion.txt
+marcosfa@MacBook-Pro-de-Marcos Tierra % cd ..
+marcosfa@MacBook-Pro-de-Marcos Universo % ls
+Luna	Tierra
+marcosfa@MacBook-Pro-de-Marcos Universo % cd Luna 
+marcosfa@MacBook-Pro-de-Marcos Luna % echo "La órbita de la Luna es la 
+trayectoria que sigue ésta en su movimiento alrededor de la Tierra. Esta 
+trayectoria se describe como una elipse de baja excentricidad que discurre 
+a una distancia media de 384 402 km de la misma y que se recorre de oeste 
+a este, es decir, en sentido antihorario si se mira desde el norte.">> 
+Orbita.txt
+marcosfa@MacBook-Pro-de-Marcos Luna % echo "Desde la Tierra, la Luna se 
+suele ver de color blanco. Sin embargo, en ocasiones puede apreciarse con 
+tonos rosas o rojos, que pueden deberse a las partículas que hay en la 
+atmósfera y el paso de la luz a través de ellas.">> Color.txt
+marcosfa@MacBook-Pro-de-Marcos Luna % ls
+Color.txt	Orbita.txt
+marcosfa@MacBook-Pro-de-Marcos Luna % cd ..
+marcosfa@MacBook-Pro-de-Marcos Universo % nano pruebaNano.txt
+marcosfa@MacBook-Pro-de-Marcos Universo % ls
+Luna		Tierra		pruebaNano.txt
+marcosfa@MacBook-Pro-de-Marcos Universo % cat pruebaNano.txt 
+Esto es una prueba
+marcosfa@MacBook-Pro-de-Marcos Universo % 
+
+
+marcosfa@MacBook-Pro-de-Marcos Universo % ls
+Luna		Tierra		pruebaNano.txt
+marcosfa@MacBook-Pro-de-Marcos Universo % cd Tierra 
+marcosfa@MacBook-Pro-de-Marcos Tierra % ls
+Densidad.txt	Rotacion.txt
+marcosfa@MacBook-Pro-de-Marcos Tierra % mv Densidad.txt Densidad.md
+marcosfa@MacBook-Pro-de-Marcos Tierra % ls
+Densidad.md	Rotacion.txt
+marcosfa@MacBook-Pro-de-Marcos Tierra % mv Rotacion.txt Rotacion.md  
+marcosfa@MacBook-Pro-de-Marcos Tierra % ls
+Densidad.md	Rotacion.md
+marcosfa@MacBook-Pro-de-Marcos Tierra % cd ..
+marcosfa@MacBook-Pro-de-Marcos Universo % cd Luna 
+marcosfa@MacBook-Pro-de-Marcos Luna % ls
+Color.txt	Orbita.txt
+marcosfa@MacBook-Pro-de-Marcos Luna % mv Color.txt Color.md  
+marcosfa@MacBook-Pro-de-Marcos Luna % mv Orbita.txt Orbita.md  
+marcosfa@MacBook-Pro-de-Marcos Luna % ls
+Color.md	Orbita.md
+marcosfa@MacBook-Pro-de-Marcos Luna % 
+

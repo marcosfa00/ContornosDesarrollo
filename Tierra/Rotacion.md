@@ -1,0 +1,1 @@
+La rotación de la Tierra es uno de los movimientos de la Tierra que consiste en girar en torno a su propio eje. La Tierra gira de oeste a este, al igual que el resto de planetas del sistema solar (con la excepción de Venus y Urano). Tomando al polo norte como punto de vista, la Tierra gira en sentido antihorario

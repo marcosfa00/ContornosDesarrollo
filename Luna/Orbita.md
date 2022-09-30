@@ -1,0 +1,1 @@
+La órbita de la Luna es la trayectoria que sigue ésta en su movimiento alrededor de la Tierra. Esta trayectoria se describe como una elipse de baja excentricidad que discurre a una distancia media de 384 402 km de la misma y que se recorre de oeste a este, es decir, en sentido antihorario si se mira desde el norte.
